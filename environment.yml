@@ -1,0 +1,11 @@
+name: data-collection-protocols-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - mkdocs
+      - mkdocs-material
+      - mkdocs-git-revision-date-localized-plugin
