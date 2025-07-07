@@ -34,7 +34,6 @@ markdown_extensions:
   - tables
 
 nav:
-  - Home: index.md
-  - "Data collection protocols":
-    - "AIMS Project": 
-      - "Surface Water Chemistry Field Sampling": AIMS_project/Surface_water_chemistry_sampling.md
+  - Repository Description: index.md
+  - "AIMS Project": 
+    - "Surface Water Chemistry Field Sampling": AIMS_project/Surface_water_chemistry_sampling.md
