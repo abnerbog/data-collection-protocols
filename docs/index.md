@@ -1,5 +1,5 @@
 ---
-title: CUAHSI Data Collection Protocols Repository
+title: Data Collection Protocols Repository
 ---
 
-CUAHSI hosted repository of lab and field data collection protocols. More info coming soon.
+Repository of curated lab and field data collection protocols. More info coming soon.
