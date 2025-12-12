@@ -2,7 +2,7 @@
 title: Surface Water Chemistry Field Sampling
 date: 2024-02-04
 github: https://github.com/abnerbog/data-collection-protocols/blob/main/docs/AIMS_project/Surface_water_chemistry_sampling.md
-edit_url: https://github.com/abnerbog/data-collection-protocols/tree/main/docs/admin
+edit_url: https://cuahsi-water-portal.netlify.app/admin
 author:
   - name: Amy Burgin
     orcid: https://orcid.org/0000-0001-8489-4002
