@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main
-  repo: CUAHSI/data-collection-protocols
+  repo: abnerbog/data-collection-protocols
   auth_scope: repo
   open_authoring: true
 
