@@ -1,4 +1,7 @@
 [build]
 base = "."
 publish = "site"
-command = "mkdocs build -d site" 
+command = "mkdocs build -d site"
+
+[build.environment]
+  PYTHON_VERSION = "3.10"
