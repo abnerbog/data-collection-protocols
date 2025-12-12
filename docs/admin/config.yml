@@ -1,8 +1,6 @@
 backend:
-  name: github
+  name: git-gateway
   branch: main
-  repo: abnerbog/data-collection-protocols
-  auth_scope: repo
   open_authoring: true
 
 public_folder: "site"
