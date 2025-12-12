@@ -1,0 +1,19 @@
+backend:
+  name: github
+  branch: main
+  repo: CUAHSI/data-collection-protocols
+  auth_scope: repo
+  open_authoring: true
+
+public_folder: "site"
+media_folder: "site/assets"
+publish_mode: editorial_workflow
+
+collections:
+  - name: "aims_project"
+    label: "AIMS Project"
+    folder: "docs/AIMS_project"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
