@@ -1,0 +1,19 @@
+# external-repo/myst.yml
+version: 1
+project:
+  id: data-collection-protocols
+  affiliations:
+    - id: iowa-state
+      institution: Iowa State University
+      department: Department of Ecology, Evolution, and Organismal Biology (EEOB)
+  open_access: true
+  license:
+    content: CC-BY-4.0
+    code: MIT
+  toc:
+    - file: docs/description_data_collection_protocols.md
+    - file: docs/AIMS_project/description_AIMS_project.md
+      children:
+        - file: docs/AIMS_project/Surface_water_chemistry_sampling.md
+site:
+  template: book-theme
