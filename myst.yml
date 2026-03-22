@@ -1,15 +1,19 @@
 # external-repo/myst.yml
 version: 1
 project:
-  id: data-collection-protocols
   affiliations:
     - id: iowa-state
-      institution: Iowa State University
-      department: Department of Ecology, Evolution, and Organismal Biology (EEOB)
+      name: Iowa State University
   open_access: true
   license:
     content: CC-BY-4.0
     code: MIT
+  github: https://github.com/CUAHSI/data-collection-protocols
+  keywords:
+    - Climate
+    - Workflows
+    - Standard
+    - R
   toc:
     - file: docs/description_data_collection_protocols.md
     - file: docs/AIMS_project/description_AIMS_project.md

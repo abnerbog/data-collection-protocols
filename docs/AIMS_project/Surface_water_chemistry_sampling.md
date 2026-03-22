@@ -1,20 +1,17 @@
 ---
 title: Surface Water Chemistry Field Sampling
 date: 2024-02-04
-github: https://github.com/abnerbog/data-collection-protocols/blob/main/docs/AIMS_project/Surface_water_chemistry_sampling.md
-edit_url: https://cuahsi-data-collection-protocols.netlify.app/admin
+# edit_url: https://cuahsi-data-collection-protocols.netlify.app/admin
 authors:
   - id: aburgin
     name: Amy Burgin
     orcid: 0000-0001-8489-4002
-    corresponding: true
     email: burginam@iastate.edu
-    # THIS IS THE MISSING LINK:
+    corresponding: true
     affiliations:
       - iowa-state
     roles:
       - Writing - original draft
-      - Writing – review & editing
       - Supervision
 ---
 
