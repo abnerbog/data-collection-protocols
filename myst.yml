@@ -22,10 +22,17 @@ project:
     code: MIT
   github: https://github.com/CUAHSI/data-collection-protocols
   keywords:
-    - Climate
-    - Workflows
-    - Standard
-    - R
+    - Nutrients
+    - Biogeochemistry
+    - Cations
+    - Non-perennial streams
+    - Anions
+    - Dissolved organic carbon
+    - Water isotopes
+    - Filter
+    - Dissolved organic matter
+    - Hydrology
+    - Water quality
   toc:
     - file: docs/description_data_collection_protocols.md
     - file: docs/AIMS_project/description_AIMS_project.md
