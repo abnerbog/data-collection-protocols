@@ -4,6 +4,19 @@ date: 2024-02-04
 # edit_url: https://cuahsi-data-collection-protocols.netlify.app/admin
 authors:
   - id: aburgin
+github: https://github.com/CUAHSI/data-collection-protocols
+keywords:
+  - Nutrients
+  - Biogeochemistry
+  - Cations
+  - Non-perennial streams
+  - Anions
+  - Dissolved organic carbon
+  - Water isotopes
+  - Filter
+  - Dissolved organic matter
+  - Hydrology
+  - Water quality
 ---
 
 ## Abstract
