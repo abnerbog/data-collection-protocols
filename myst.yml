@@ -1,9 +1,21 @@
 # external-repo/myst.yml
 version: 1
 project:
+  id: aims-project-protocols
   affiliations:
     - id: iowa-state
       name: Iowa State University
+  authors:
+    - id: aburgin
+      name: Amy Burgin
+      email: burginam@iastate.edu
+      orcid: 0000-0001-8489-4002
+      roles:
+        - Writing - original draft
+        - Writing - Review & Editing
+        - Supervision
+      affiliations:
+      - iowa-state
   open_access: true
   license:
     content: CC-BY-4.0

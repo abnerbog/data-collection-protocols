@@ -4,15 +4,6 @@ date: 2024-02-04
 # edit_url: https://cuahsi-data-collection-protocols.netlify.app/admin
 authors:
   - id: aburgin
-    name: Amy Burgin
-    orcid: 0000-0001-8489-4002
-    email: burginam@iastate.edu
-    corresponding: true
-    affiliations:
-      - iowa-state
-    roles:
-      - Writing - original draft
-      - Supervision
 ---
 
 ## Abstract
