@@ -15,7 +15,7 @@ affiliations:
   - id: iowa-state
     name: Iowa State University
     url: https://www.iastate.edu/
-subject: Courseware
+subject: Standards and Protocols
 doi: https://doi.org/10.4211/hs.ac0c4f31e8a64c52bae41e5719bd3c14
 venue:
   title: View Resource on HydroShare
