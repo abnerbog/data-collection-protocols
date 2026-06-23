@@ -1,22 +1,28 @@
 ---
 title: Surface Water Chemistry Field Sampling
 date: 2024-02-04
-# edit_url: https://cuahsi-data-collection-protocols.netlify.app/admin
+edit_url: https://cuahsi-data-collection-protocols.netlify.app/admin
 authors:
   - id: aburgin
+    name: Amy Burgin
+    email: burginam@iastate.edu
+    orcid: https://orcid.org/0000-0001-8489-4002
+    corresponding: true
+    url: https://www.eeb.iastate.edu/people/amy-burgin
+    affiliations:
+      - iowa-state
+affiliations:
+  - id: iowa-state
+    name: Iowa State University
+    url: https://www.iastate.edu/
+subject: Courseware
+doi: https://doi.org/10.4211/hs.ac0c4f31e8a64c52bae41e5719bd3c14
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/ac0c4f31e8a64c52bae41e5719bd3c14/
 github: https://github.com/CUAHSI/data-collection-protocols
-keywords:
-  - Nutrients
-  - Biogeochemistry
-  - Cations
-  - Non-perennial streams
-  - Anions
-  - Dissolved organic carbon
-  - Water isotopes
-  - Filter
-  - Dissolved organic matter
-  - Hydrology
-  - Water quality
+downloads:
+  - file: Surface_water_chemistry_sampling.md
 ---
 
 ## Abstract
